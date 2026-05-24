@@ -5,6 +5,15 @@
 </h3>
 
 <p align="center">
+  <a href="https://git.io/typing-svg">
+    <img 
+      src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Amit Verma ;Azure+DevOps+Engineer;Terraform+%7C+Docker+%7C+Kubernetes;CI%2FCD+Automation+Specialist;Infrastructure+as+Code+Expert;Always+Building+%26+Learning+🚀" 
+    />
+  </a>
+</p>
+
+
+<p align="center">
   <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="450">
 </p>
 
