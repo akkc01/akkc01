@@ -1,8 +1,15 @@
+
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=38&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=Hi+👋,+I'm+Amit+Kumar+Verma;Azure+DevOps+Engineer+🚀;Terraform+%7C+Kubernetes+%7C+Docker;Cloud+%26+Automation+Enthusiast" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=38&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=Hi+👋,+I'm+Amit+Kumar+Verma" />
 
-<br><br>
+</div>
+
+<div align="center">
+
+<!-- <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=38&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=Hi+👋,+I'm+Amit+Kumar+Verma;Azure+DevOps+Engineer+🚀;Terraform+%7C+Kubernetes+%7C+Docker;Cloud+%26+Automation+Enthusiast" />
+
+<br><br> -->
 
 <!-- <img src="https://user-images.githubusercontent.com/74038190/212750573-4cccb86b-6149-4b7d-bfdb-ecf5f0f6b8d4.gif" width="650"/>
 
@@ -15,12 +22,6 @@
 </p>
 </div>
 
-
-<div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=38&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=Hi+👋,+I'm+Amit+Kumar+Verma" />
-
-</div>
 
 <h3 align="center">
 Azure DevOps Engineer | Azure Cloud | Terraform | Kubernetes | CI/CD Automation
