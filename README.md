@@ -4,13 +4,22 @@
 🚀 Azure DevOps Engineer | Azure Cloud | Terraform | Kubernetes | CI/CD Automation
 </h3>
 
-<p align="center">
+<!-- <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&color=36BCF7&center=true&vCenter=true&width=900&lines=Azure+Cloud+Engineer;Terraform+%7C+Docker+%7C+Kubernetes;CI%2FCD+Automation;DevOps+Enthusiast+🚀" />
 </p>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212750573-4cccb86b-6149-4b7d-bfdb-ecf5f0f6b8d4.gif" width="600">
+</p> -->
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img 
+      src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Azure+DevOps+Engineer;Terraform+%7C+Docker+%7C+Kubernetes;CI%2FCD+Automation+Specialist;Infrastructure+as+Code+Expert;Always+Building+%26+Learning+🚀" 
+    />
+  </a>
 </p>
+
 
 ---
 
