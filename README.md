@@ -105,7 +105,7 @@ Azure DevOps Engineer | Azure Cloud | Terraform | Kubernetes | CI/CD Automation
 # 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akkc01&theme=tokyonight"/>
 </p>
 
 ---
