@@ -96,9 +96,9 @@ Azure DevOps Engineer | Azure Cloud | Terraform | Kubernetes | CI/CD Automation
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=akkc01&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=akkc01/akkc01&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akkc01&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akkc01/akkc01&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 
 </div>
 
