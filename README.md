@@ -99,7 +99,8 @@ Azure DevOps Engineer | Azure Cloud | Terraform | Kubernetes | CI/CD Automation
     src="https://github-readme-stats-sigma-five.vercel.app/api?username=akkc01&show_icons=true&theme=tokyonight" 
     height="180em"
   />
-  
+  <br><br>
+ 
   <img 
     src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=akkc01&layout=compact&theme=tokyonight" 
     height="180em"
