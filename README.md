@@ -4,9 +4,11 @@
 🚀 Azure DevOps Engineer | Azure Cloud | Terraform | Kubernetes | CI/CD Automation
 </h3>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="450">
-</p>
+<div align="center">
+
+<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="700"/>
+
+</div>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -15,11 +17,7 @@
     />
   </a>
 </p>
-<div align="center">
 
-<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="700"/>
-
-</div>
 
 ---
 
