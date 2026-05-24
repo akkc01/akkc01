@@ -15,11 +15,11 @@
 
 <br><br> -->
 
-<h3>✨ Thanks For Visiting My Profile ✨</h3>
-
 <p>
-🚀 Keep Learning • Keep Building • Keep Automating
+ ✨ Thanks For Visiting My Profile ✨
 </p>
+<h3>🚀 Keep Learning • Keep Building • Keep Automating</h3>
+
 </div>
 
 
