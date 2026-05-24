@@ -7,7 +7,7 @@
 </div>
 
 <h3 align="center">
-🚀 Azure DevOps Engineer | Azure Cloud | Terraform | Kubernetes | CI/CD Automation
+Azure DevOps Engineer | Azure Cloud | Terraform | Kubernetes | CI/CD Automation
 </h3>
 
 <div align="center">
