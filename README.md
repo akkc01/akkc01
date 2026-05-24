@@ -152,6 +152,8 @@ Azure DevOps Engineer | Azure Cloud | Terraform | Kubernetes | CI/CD Automation
 
 ---
 
-<p align="center">
-  <h3>✨ Thanks for visiting my GitHub Profile ✨</h3>
-</p>
+<div align="center">
+
+<h3>✨ Thanks for visiting my GitHub Profile ✨</h3>
+
+</div>
