@@ -20,6 +20,13 @@
   </a>
 </p>
 
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=First%2C+solve+the+problem.;Then%2C+automate+it.+🚀" />
+
+<img src="https://user-images.githubusercontent.com/74038190/212750573-4cccb86b-6149-4b7d-bfdb-ecf5f0f6b8d4.gif" width="700"/>
+
+</div>
 
 ---
 
