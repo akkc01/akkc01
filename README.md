@@ -4,18 +4,15 @@
 
 <br><br>
 
-<img src="https://user-images.githubusercontent.com/74038190/212750573-4cccb86b-6149-4b7d-bfdb-ecf5f0f6b8d4.gif" width="650"/>
+<!-- <img src="https://user-images.githubusercontent.com/74038190/212750573-4cccb86b-6149-4b7d-bfdb-ecf5f0f6b8d4.gif" width="650"/>
 
-<br><br>
+<br><br> -->
 
 <h3>✨ Thanks For Visiting My Profile ✨</h3>
 
 <p>
 🚀 Keep Learning • Keep Building • Keep Automating
 </p>
-
-<img src="https://komarev.com/ghpvc/?username=akkc01&label=Profile%20Views&color=0e75b6&style=flat" />
-
 </div>
 
 
