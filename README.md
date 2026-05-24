@@ -94,7 +94,7 @@ Azure DevOps Engineer | Azure Cloud | Terraform | Kubernetes | CI/CD Automation
 
 # 📈 GitHub Stats
 
-<p align="center">
+<!-- <p align="center">
   <img 
     src="https://github-readme-stats-sigma-five.vercel.app/api?username=akkc01&show_icons=true&theme=tokyonight" 
     height="180em"
@@ -105,7 +105,18 @@ Azure DevOps Engineer | Azure Cloud | Terraform | Kubernetes | CI/CD Automation
     src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=akkc01&layout=compact&theme=tokyonight" 
     height="180em"
   />
-</p>
+</p> -->
+
+
+# 📈 GitHub Stats
+
+<div align="center">
+
+<img width="49%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=akkc01&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img width="37%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=akkc01&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
 
 ---
 
