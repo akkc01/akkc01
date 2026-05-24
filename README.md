@@ -18,7 +18,7 @@
 <p>
  ✨ Thanks For Visiting My Profile ✨
 </p>
-<h3>🚀 Keep Learning • Keep Building • Keep Automating</h3>
+<h3> Keep Learning • Keep Building • Keep Automating</h3>
 
 </div>
 
