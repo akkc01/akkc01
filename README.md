@@ -23,9 +23,9 @@
 </div>
 
 
-<h3 align="center">
+<!-- <h3 align="center">
 Azure DevOps Engineer | Azure Cloud | Terraform | Kubernetes | CI/CD Automation
-</h3>
+</h3> -->
 
 <div align="center">
 
